@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Jersey Statutes Annotated</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on New Jersey Statutes Annotated</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 21:07:13 +0100</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Jersey Statutes Annotated</title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Sat, 10 Feb 2018 21:07:13 +0100</pubDate>
+      
+      <guid>http://localhost:1313/</guid>
+      <description>**NEW JERSEY GENERAL AND PERMANENT STATUTES (UPDATED THROUGH P.L. 2017, ch. 342 and JR 24 of 2017)**
+TITLE 1 ACTS, LAWS AND STATUTES 1:1-1. General rules of construction In the construction of the laws and statutes of this state, both civil and criminal, words and phrases shall be read and construed with their context, and shall, unless inconsistent with the manifest intent of the legislature or unless another or different meaning is expressly indicated, be given their generally accepted meaning, according to the approved usage of the language.</description>
+    </item>
+    
+  </channel>
+</rss>
